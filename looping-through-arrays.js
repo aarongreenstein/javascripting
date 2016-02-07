@@ -22,3 +22,5 @@
      javascripting verify looping-through-arrays.js
 */
 
+var food = ['apple', 'pizza', 'pear'];
+console.log(food[1]);
